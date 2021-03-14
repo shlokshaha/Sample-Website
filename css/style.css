@@ -1,0 +1,35 @@
+#AboutUs h2{
+    text-align: center;
+}
+
+#AboutUs p{
+    text-align: justify;
+    font-size: 1.2em;
+}
+ 
+#contactUs{
+    background-color: #f4f4f4;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.achievementContent{
+    background-color: #f4f4f4;
+    border-radius: 15px;
+    padding: 10px 15px;
+}
+
+div.bg-secondary{
+    padding: 15px;
+    color: white;
+    font-size: 1.2em;
+}
+
+div.bg-secondary a{
+    color: rgb(184, 180, 180);
+}
+
+footer{
+    text-align: center;
+}
+
